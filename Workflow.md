@@ -84,7 +84,7 @@ results/aa_muts.json \
 conda activate auspice
 auspice build
 auspice view --datasetDir <directory of results>
-auspice view --datasetDir /mnt/f/1022/zika-tutorial/auspice_results/10
+auspice view --datasetDir /mnt/f/1022/zika-tutorial/auspice_results/
 ```
 
 
