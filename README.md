@@ -1,2 +1,2 @@
-# Augur_Workflow
+# Augur_Auspice_Workflow
 Augur与Auspice的环境部署
